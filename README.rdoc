@@ -1,0 +1,5 @@
+== Finance Tracker App
+
+This application is for tracking stocks and is part of the Udemy Ruby on Rails Course
+
+This is being done by Bob Creigh
